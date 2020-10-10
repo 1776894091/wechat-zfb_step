@@ -108,8 +108,8 @@ def main():
 
 # -- 配置 --
 # ------------------------------
-phone = '18845639809'  # 登陆账号
-password = 'm123564789'  # 密码
+phone = ''  # 登陆账号
+password = ''  # 密码
 step = random.randint(40000,60000)  # 随机30000-40000步数
 sckey = ''  # server酱key(可空)
 ktkey = ''  # 酷推key(可空)
